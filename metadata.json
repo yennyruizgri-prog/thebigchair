@@ -1,0 +1,6 @@
+{
+  "name": "The Big Chair | Consultora de Estrategia, Personas y Proyectos",
+  "description": "Ver el panorama completo cambia tus decisiones. Consultora que conecta estrategia, personas y proyectos en Chile con vocación internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
